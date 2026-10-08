@@ -3,6 +3,7 @@
   "identifier": "com.tduh352.savekit.source",
   "subtitle": "SaveKit公式ソース",
   "description": "SaveKitの配布およびアップデート用カスタムソース",
+  "schemaVersion": 1,
   "iconURL": "https://raw.githubusercontent.com/tduh352/savekit-source/main/icon.png",
   "website": "https://github.com/tduh352/savekit-source",
   "apps": [
@@ -14,14 +15,13 @@
       "localizedDescription": "Webブラウザ，広告ブロック，保存先フォルダ指定を兼ね備えた軽量メディアダウンローダー．",
       "iconURL": "https://raw.githubusercontent.com/tduh352/savekit-source/main/icon.png",
       "tintColor": "006E4F",
-      "category": "utilities",
       "versions": [
         {
           "version": "1.0.0",
           "date": "2026-10-08T00:00:00Z",
           "size": 681574,
           "downloadURL": "https://github.com/tduh352/savekit-source/releases/download/1.0.0/savekit.ipa",
-          "localizedDescription": "初回リリース：Webブラウザ，広告ブロック，長押し保存機能の実装"
+          "localizedDescription": "初回リリース"
         }
       ]
     }
