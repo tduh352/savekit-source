@@ -1,19 +1,30 @@
 {
   "name": "SaveKit Source",
   "identifier": "com.tduh352.savekit.source",
+  "subtitle": "SaveKit公式ソース",
+  "description": "SaveKitの配布およびアップデート用カスタムソース",
+  "iconURL": "https://raw.githubusercontent.com/tduh352/savekit-source/main/icon.png",
+  "website": "https://github.com/tduh352/savekit-source",
   "apps": [
     {
       "name": "SaveKit",
       "bundleIdentifier": "com.tduh352.savekit.savekit",
       "developerName": "Master",
-      "version": "1.0.0",
-      "versionDate": "2026-10-08T00:00:00Z",
-      "versionDescription": "初回リリース：Webブラウザ，広告ブロック，長押し保存機能の実装",
-      "downloadURL": "https://github.com/tduh352/savekit-source/releases/download/1.0.0/savekit.ipa",
-      "localizedDescription": "Webブラウザ，強力な広告ブロック，保存先フォルダ指定を兼ね備えた軽量メディアダウンローダー．",
+      "subtitle": "メディアダウンローダー＆ブラウザ",
+      "localizedDescription": "Webブラウザ，広告ブロック，保存先フォルダ指定を兼ね備えた軽量メディアダウンローダー．",
       "iconURL": "https://raw.githubusercontent.com/tduh352/savekit-source/main/icon.png",
       "tintColor": "006E4F",
-      "size": 681574
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-08T00:00:00Z",
+          "size": 681574,
+          "downloadURL": "https://github.com/tduh352/savekit-source/releases/download/1.0.0/savekit.ipa",
+          "localizedDescription": "初回リリース：Webブラウザ，広告ブロック，長押し保存機能の実装"
+        }
+      ]
     }
-  ]
+  ],
+  "news": []
 }
